@@ -1,16 +1,16 @@
 ### Hello World!
 [![Visits Badge](https://badges.pufler.dev/visits/niladridutt/niladridutt)](https://badges.pufler.dev/niladridutt/niladridutt)
   
-###### Education : 
-- New York University - Courant Institute of Mathematical Sciences
-- University of California, Berkeley
-  
 ##### About me 
 I will be joining NYU Courant as a Computer Science graduate student starting January 2021! Previously, I had the good fortune of working with Dr.Brandie Nonnecke at UC Berkeley at the intersection of machine learning and social network analysis where our work was presented to senators in Washington D.C. In the past, I have spent time as a research intern at Nvidia and CNeRG, IIT Kharagpur.
 
 If you're starting your journey in machine learning, check out this [roadmap](https://github.com/niladridutt/McCarthy-AI-Roadmap) I maintain.
 
-#### Research Interests :
+##### Education : 
+- New York University - Courant Institute of Mathematical Sciences
+- University of California, Berkeley
+
+##### Research Interests :
 
 - Generative Modeling
 - Image Synthesis and Image Translation
