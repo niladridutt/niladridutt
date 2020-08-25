@@ -31,7 +31,7 @@ If you're starting your journey in machine learning, check out this [roadmap](ht
 - Won the 2nd Runners-up award at San Francisco (SF) Hacks 2019 (Major League Hacking)
 - Won ‘Best Utility Hack’ at DeveloperWeek Hackathon 2019 (America's largest challenge driven hackathon)
   
-#### 📫 How to reach me:   
+###### 📫 How to reach me:   
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/dutt_niladri)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/niladridutt/)
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/niladridutt/)
