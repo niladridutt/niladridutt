@@ -9,6 +9,7 @@ If you're starting your journey in machine learning, check out this [roadmap](ht
 ##### Education : 
 - New York University - Courant Institute of Mathematical Sciences
 - University of California, Berkeley
+- SRM Institute of Science and Technology
 
 ##### Research Interests :
 
