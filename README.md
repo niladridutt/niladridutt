@@ -6,12 +6,11 @@
 
   
 ##### About me 
-I will be joining NYU Courant as a Computer Science graduate student starting January 2021! Previously, I had the good fortune of working with Dr.Brandie Nonnecke at UC Berkeley at the intersection of machine learning and social network analysis. Our work was presented to senators in Washington D.C. In the past, I have spent time as a research intern at Nvidia and CNeRG, IIT Kharagpur.
+I'm currently working on launching an applied AI/ML/DL specialization on Coursera with UC Berkeley, Google and Perceptilabs. Previously, I have had the good fortune of working with Dr.Brandie Nonnecke at UC Berkeley at the intersection of machine learning and social network analysis where our work was presented to senators in Washington D.C. In the past, I have spent time as a research intern at Nvidia and CNeRG, IIT Kharagpur.
 
 If you're starting your journey in machine learning, check out this [roadmap](https://github.com/niladridutt/McCarthy-AI-Roadmap) I maintain.
 
 ##### Education : 
-- New York University - Courant Institute of Mathematical Sciences
 - University of California, Berkeley
 - SRM Institute of Science and Technology
 
