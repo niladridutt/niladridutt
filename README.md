@@ -1,6 +1,4 @@
 ### Hello World!
-[![Visits Badge](https://badges.pufler.dev/visits/niladridutt/niladridutt)](https://badges.pufler.dev/niladridutt/niladridutt)
-
 <a href="https://www.buymeacoffee.com/niladridutt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 12px !important;width: 54px !important;" ></a>
 
 
@@ -43,3 +41,7 @@ If you're starting your journey in machine learning, check out this [roadmap](ht
   
   
 [![Stats](https://github-readme-stats.vercel.app/api?username=niladridutt&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=niladridutt&show_icons=true&theme=radical)
+
+<br>
+
+[![Visits Badge](https://badges.pufler.dev/visits/niladridutt/niladridutt)](https://badges.pufler.dev/niladridutt/niladridutt)
