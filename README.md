@@ -10,10 +10,6 @@ I'm also working on launching an applied AI/ML/DL specialization on Coursera in 
 
 If you're starting your journey in machine learning, check out this [roadmap](https://github.com/niladridutt/McCarthy-AI-Roadmap) I maintain.
 
-##### Education : 
-- University of California, Berkeley
-- SRM Institute of Science and Technology
-
 ##### Research Interests :
 
 - Generative Modeling
