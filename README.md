@@ -4,7 +4,7 @@
 
   
 ##### About me 
-I'm a Data Scientist at Sentinel where I help governments and organizations defend against deep fakes and information warfare by developing intelligent systems and architectures to automatically detect AI generated and manipulated media.
+I'm a Data Scientist at NFTPort where I build AI x blockchain services.
 
 ##### Ex research - Nvidia, CITRIS Plicy Lab @ UC Berkeley, IIT Kharagpur
 
