@@ -17,7 +17,6 @@ If you're starting your journey in machine learning, check out this [roadmap](ht
 - Image Synthesis and Image Translation
 - Computer Vision
 - Representation Learning
-- Fairness in Machine Learning
   
 ###### 📫 How to reach me:   
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/dutt_niladri)
