@@ -4,7 +4,7 @@
 
   
 ##### About me 
-I'm a Data Scientist at NFTPort where I build AI x blockchain services.
+I’m currently pursuing MSc in Computer Vision at UCL (University College London). Previously, I led machine learning at NFTPort from its inception through its Series A of $26M.
 
 ##### Ex research - Nvidia, CITRIS Plicy Lab @ UC Berkeley, IIT Kharagpur
 
