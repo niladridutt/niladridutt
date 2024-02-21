@@ -4,17 +4,13 @@
 
   
 ##### About me 
-I’m currently pursuing MSc in Computer Vision at UCL (University College London). Previously, I led machine learning at NFTPort from its inception through its Series A of $26M.
+I am a Research Engineer at Ready Player Me working on Generative AI x 3D. I completed my master’s in Computer Vision at University College London (UCL) advised by Prof. Niloy Mitra. Previously, I was a Founding Engineer at NFTPort leading machine learning from its inception through its Series A round of $26M.
 
-##### Ex research - Nvidia, CITRIS Plicy Lab @ UC Berkeley, IIT Kharagpur
+I am interested in generating and editing 3D content (particularly meshes that are compatible with graphics engines) using text instructions, images or other simple modalities.
+
+##### Ex research - UCL, Nvidia, CITRIS Policy Lab @ UC Berkeley, IIT Kharagpur
 
 If you're starting your journey in machine learning, check out this [roadmap](https://github.com/niladridutt/McCarthy-AI-Roadmap) I maintain.
-
-#### Research Interests :
-
-- Semi-Supervised Learning & Self-Supervised Learning
-- Generative Modeling
-- Computer Vision
   
 ###### 📫 How to reach me:   
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/niladridutt)
