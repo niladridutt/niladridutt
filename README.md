@@ -1,7 +1,6 @@
-### Hello World!
+
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=niladridutt)](https://github.com/ryo-ma/github-profile-trophy)-->
-
   
 ##### About me 
 I am a PhD student at *University College London (UCL)* advised by Prof. Niloy Mitra and sponsored by *Adobe Research*. My research lies at the interesction of computer vision, computer graphics, and machine learning; I’m particularly interested in 3D/4D generative modeling.
